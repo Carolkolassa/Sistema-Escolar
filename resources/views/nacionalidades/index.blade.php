@@ -1,12 +1,12 @@
 @extends ('layouts.default')
 @section('content')
 
-<h1> Nacionalidades</h1>
+<h1> Matérias </h1>
 
 <table class=" table table-stripe table-bordered table-hover">
     <thead>
 
-        <th>descrição</th>
+        <th>Matéria</th>
         <th>Ações</th>
 
     </thead>
