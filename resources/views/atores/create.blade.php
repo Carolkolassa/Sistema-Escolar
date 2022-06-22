@@ -35,8 +35,8 @@
 </div>
 
 <div class="form-group">
-    {!! Form::submit('Criar Ator', ['class'=>'btn btn-primary'])!!}
-    {!! Form::reset('limpar', ['class'=>'btn btn-default']) !!}
+    {!! Form::submit('Criar Aluno', ['class'=>'btn btn-primary'])!!}
+    {!! Form::reset('Limpar', ['class'=>'btn btn-default']) !!}
 </div>
 
 
